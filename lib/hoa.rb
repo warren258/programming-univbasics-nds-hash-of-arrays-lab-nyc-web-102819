@@ -14,5 +14,6 @@ end
   def  (show, name)
     BASE_HOA[:third_earthers]<< "Snarf"
 end
- def  BASE_HOA[:jetsons]<< "Astro"
+ def  (show, name)
+   BASE_HOA[:jetsons]<< "Astro"
 end
